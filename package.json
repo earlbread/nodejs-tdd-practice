@@ -10,7 +10,7 @@
     "mocha": "^3.3.0"
   },
   "scripts": {
-    "test": "mocha",
+    "test": "mocha test/**/test_*",
     "start": "node server.js"
   },
   "repository": {
